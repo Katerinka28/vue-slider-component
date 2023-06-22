@@ -60,10 +60,7 @@
   "bugs": {
     "url": "https://github.com/NightCatSama/vue-slider-component/issues"
   },
-  "gitHooks": {
-    "pre-commit": "lint-staged",
-    "commit-msg": "commitlint -e $GIT_PARAMS"
-  },
+
   "homepage": "https://github.com/NightCatSama/vue-slider-component",
   "keywords": [
     "vue",
